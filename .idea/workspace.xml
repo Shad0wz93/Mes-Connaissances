@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a422e15a-66d5-4553-926c-e70289fa8046" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/CategoryController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/KnowledgeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/database/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/Knowledge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/DeleteConfirmModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/EmptyState.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/LoadingSpinner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/category/CategoryForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/knowledge/KnowledgeCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/components/knowledge/KnowledgeForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/models/ApiResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/models/Category.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/models/ComponentProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/models/FormData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/knowledges/src/models/Knowledge.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yER4PzqExfsGrhqHO7v00PR2hE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/adam/Applications/PhpStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/knowledges/src/components/knowledge" />
+      <recent name="$PROJECT_DIR$/frontend/knowledges/src/components/category" />
+      <recent name="$PROJECT_DIR$/frontend/knowledges/src" />
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/backend/api" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a422e15a-66d5-4553-926c-e70289fa8046" name="Changes" comment="" />
+      <created>1749397555455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749397555455</updated>
+      <workItem from="1749397556767" duration="8587000" />
+      <workItem from="1749417759697" duration="10000" />
+      <workItem from="1749417806855" duration="182000" />
+      <workItem from="1749418702400" duration="1878000" />
+      <workItem from="1749497405612" duration="227000" />
+      <workItem from="1749497634602" duration="13955000" />
+      <workItem from="1749670596402" duration="69000" />
+      <workItem from="1749670988941" duration="124000" />
+      <workItem from="1749671121658" duration="4341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
