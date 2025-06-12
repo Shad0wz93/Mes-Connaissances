@@ -58,7 +58,7 @@ const KnowledgeForm: React.FC<KnowledgeFormProps> = ({ knowledge, categories, on
 
     return (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
-            <div className="bg-white rounded-xl max-w-lg w-full p-6 max-h-96 overflow-y-auto">
+            <div className="bg-white rounded-xl max-w-lg w-full p-6 max-h-110 overflow-y-auto">
                 <div className="flex justify-between items-center mb-4">
                     <h2 className="text-xl font-bold text-gray-900">
                         {knowledge ? 'Modifier la connaissance' : 'Nouvelle connaissance'}
