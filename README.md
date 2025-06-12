@@ -160,15 +160,15 @@ Mes-Connaissances/
 
 ### Interface principale
 
-![Interface principale](screenshots/interface-principale-2025-06-12-14-04-55.png)
+![Interface principale](screenshots/interface.png)
 
 ### Ajouter une connaissance
 
-![Ajouter une connaissance](screenshots/ajouter-connaissance-2025-06-12-14-05-45.png)
+![Ajouter une connaissance](screenshots/connaissance.png)
 
 ### Ajouter une catégorie
 
-![Ajouter une catégorie](screenshots/ajouter-categorie-2025-06-12-14-07-44.png)
+![Ajouter une catégorie](screenshots/categorie.png)
 
 ## 🎯 Fonctionnalités
 
