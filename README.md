@@ -57,7 +57,6 @@ DB_HOST=localhost
 DB_NAME=mes_connaissances
 DB_USER=votre_utilisateur
 DB_PASSWORD=votre_mot_de_passe
-DB_PORT=3306
 
 # Configuration env front
 REACT_APP_API_BASE_URL= url back
@@ -199,12 +198,6 @@ npm start
 php -S localhost:8000
 
 ```
-
-## 📝 Notes importantes
-
-- Assurez-vous que les ports 3000 (frontend) et 8000 (backend) sont libres
-- Les fichiers `.env` ne doivent pas être versionnés (ajoutés au .gitignore)
-
 ## 🐛 Dépannage
 
 ### Problèmes courants
